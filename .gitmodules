@@ -1,0 +1,4 @@
+[submodule "mmdetection3d"]
+	path = mmdetection3d
+	url = ../mmdetection3d
+    branch = density+mini-win
