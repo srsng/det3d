@@ -15,6 +15,13 @@ dependencies = [
     "mmdet3d",
     "spconv-cu121>=2.3.8",
     "mmdet==3.3.0",
+    "plyfile>=1.1.3",
+    "tensorboard>=2.20.0",
+    "trimesh>=4.11.4",
+    "lyft-dataset-sdk>=0.0.8",
+    "networkx>=2.5",
+    "numba>=0.64.0",
+    "nuscenes-devkit>=1.2.0",
 ]
 
 [tool.uv]
