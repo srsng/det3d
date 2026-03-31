@@ -22,6 +22,7 @@ dependencies = [
     "networkx>=2.5",
     "numba>=0.64.0",
     "nuscenes-devkit>=1.2.0",
+    "setuptools==60.2.0",
 ]
 
 [tool.uv]
